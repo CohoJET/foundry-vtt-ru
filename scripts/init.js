@@ -9,6 +9,7 @@ import { InitINVESTIGATOR } from "./system-investigator.js";
 import { InitCOC7 } from "./system-coc7.js";
 import { InitMASKS } from "./system-masks.js";
 import { InitSFRPGBB } from "./system-sfrpgbb.js";
+import { InitMythras } from "./system-mythras.js";
 //import { InitAOS } from "./system-age-of-sigmar-soulbound.js";
 
 Hooks.once("init", async () => {
@@ -116,6 +117,11 @@ Hooks.once("init", async () => {
   // SFBB
   if (game.system.id === "sfrpgbb") {
     InitSFRPGBB();
+  }
+
+  // SFBB
+  if (game.system.id === "mythras") {
+    InitMythras();
   }
 
   // AGE OF SIGMAR SOULBOUND
