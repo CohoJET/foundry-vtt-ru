@@ -10,13 +10,13 @@
       "url": "https://discord.gg/Z2CXFy35WF"
     }
   ],
-  "version": "10.288.4",
-  "minimumCoreVersion": "10",
-  "compatibleCoreVersion": "10",
+  "version": "9.280",
+  "minimumCoreVersion": "9",
+  "compatibleCoreVersion": "9",
   "compatibility": {
-    "minimum": "10",
-    "verified": "10",
-    "maximum": "10"
+    "minimum": "9",
+    "verified": "9",
+    "maximum": "9"
   },
   "coreTranslation": true,
   "scripts": ["scripts/loadCSS.js"],
@@ -201,6 +201,11 @@
       "lang": "ru",
       "path": "i18n/systems/yzecoriolis.json",
       "system": "yzecoriolis"
+    },
+    {
+      "lang": "ru",
+      "path": "i18n/systems/mythras.json",
+      "system": "mythras"
     },
     {
       "lang": "ru",
