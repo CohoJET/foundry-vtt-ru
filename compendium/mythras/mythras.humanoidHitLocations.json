@@ -1,0 +1,26 @@
+{
+	"label": "Humanoid Hit Locations",
+	"entries": {
+		"Abdomen": {
+			"name": "Abdomen"
+		},
+		"Chest": {
+			"name": "Chest"
+		},
+		"Head": {
+			"name": "Head"
+		},
+		"Left Arm": {
+			"name": "Left Arm"
+		},
+		"Left Leg": {
+			"name": "Left Leg"
+		},
+		"Right Arm": {
+			"name": "Right Arm"
+		},
+		"Right Leg": {
+			"name": "Right Leg"
+		}
+	}
+}

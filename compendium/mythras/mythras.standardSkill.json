@@ -1,0 +1,71 @@
+{
+	"label": "Standard Skills",
+	"entries": {
+		"Athletics": {
+			"name": "Athletics"
+		},
+		"Boating": {
+			"name": "Boating"
+		},
+		"Brawn": {
+			"name": "Brawn"
+		},
+		"Conceal": {
+			"name": "Conceal"
+		},
+		"Customs": {
+			"name": "Customs"
+		},
+		"Dance": {
+			"name": "Dance"
+		},
+		"Deceit": {
+			"name": "Deceit"
+		},
+		"Drive": {
+			"name": "Drive"
+		},
+		"Endurance": {
+			"name": "Endurance"
+		},
+		"Evade": {
+			"name": "Evade"
+		},
+		"First Aid": {
+			"name": "First Aid"
+		},
+		"Influence": {
+			"name": "Influence"
+		},
+		"Insight": {
+			"name": "Insight"
+		},
+		"Locale": {
+			"name": "Locale"
+		},
+		"Native Tongue": {
+			"name": "Native Tongue"
+		},
+		"Perception": {
+			"name": "Perception"
+		},
+		"Ride": {
+			"name": "Ride"
+		},
+		"Sing": {
+			"name": "Sing"
+		},
+		"Stealth": {
+			"name": "Stealth"
+		},
+		"Swim": {
+			"name": "Swim"
+		},
+		"Unarmed": {
+			"name": "Unarmed"
+		},
+		"Willpower": {
+			"name": "Willpower"
+		}
+	}
+}

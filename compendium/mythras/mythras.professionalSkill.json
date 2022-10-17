@@ -1,0 +1,149 @@
+{
+	"label": "Professional Skills",
+	"entries": {
+		"Acrobatics": {
+			"name": "Acrobatics",
+			"description": ""
+		},
+		"Acting": {
+			"name": "Acting",
+			"description": ""
+		},
+		"Art": {
+			"name": "Art",
+			"description": ""
+		},
+		"Binding": {
+			"name": "Binding",
+			"description": ""
+		},
+		"Bureaucracy": {
+			"name": "Bureaucracy",
+			"description": ""
+		},
+		"Commerce": {
+			"name": "Commerce",
+			"description": ""
+		},
+		"Courtesy": {
+			"name": "Courtesy",
+			"description": ""
+		},
+		"Craft": {
+			"name": "Craft",
+			"description": ""
+		},
+		"Culture": {
+			"name": "Culture",
+			"description": ""
+		},
+		"Devotion": {
+			"name": "Devotion",
+			"description": ""
+		},
+		"Disguise": {
+			"name": "Disguise",
+			"description": ""
+		},
+		"Engineering": {
+			"name": "Engineering",
+			"description": ""
+		},
+		"Exhort": {
+			"name": "Exhort",
+			"description": ""
+		},
+		"Folk Magic": {
+			"name": "Folk Magic",
+			"description": ""
+		},
+		"Gambling": {
+			"name": "Gambling",
+			"description": ""
+		},
+		"Healing": {
+			"name": "Healing",
+			"description": ""
+		},
+		"Invocation": {
+			"name": "Invocation",
+			"description": ""
+		},
+		"Language": {
+			"name": "Language",
+			"description": ""
+		},
+		"Literacy": {
+			"name": "Literacy",
+			"description": ""
+		},
+		"Lockpicking": {
+			"name": "Lockpicking",
+			"description": ""
+		},
+		"Lore": {
+			"name": "Lore",
+			"description": ""
+		},
+		"Mechanisms": {
+			"name": "Mechanisms",
+			"description": ""
+		},
+		"Meditation": {
+			"name": "Meditation",
+			"description": ""
+		},
+		"Musicianship": {
+			"name": "Musicianship",
+			"description": ""
+		},
+		"Mysticism": {
+			"name": "Mysticism",
+			"description": ""
+		},
+		"Navigation": {
+			"name": "Navigation",
+			"description": ""
+		},
+		"Oratory": {
+			"name": "Oratory",
+			"description": ""
+		},
+		"Seamanship": {
+			"name": "Seamanship",
+			"description": ""
+		},
+		"Seduction": {
+			"name": "Seduction",
+			"description": ""
+		},
+		"Shaping": {
+			"name": "Shaping",
+			"description": ""
+		},
+		"Sleight": {
+			"name": "Sleight",
+			"description": ""
+		},
+		"Streetwise": {
+			"name": "Streetwise",
+			"description": ""
+		},
+		"Survival": {
+			"name": "Survival",
+			"description": ""
+		},
+		"Teach": {
+			"name": "Teach",
+			"description": ""
+		},
+		"Track": {
+			"name": "Track",
+			"description": ""
+		},
+		"Trance": {
+			"name": "Trance",
+			"description": ""
+		}
+	}
+}
